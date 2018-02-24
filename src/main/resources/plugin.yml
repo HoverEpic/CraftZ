@@ -1,7 +1,7 @@
 name: CraftZ
 version: 1.0
 author: JangoBrick
-main: craftZ.CraftZ
+main: io.github.jangobrick.craftz.CraftZ
 load: STARTUP
 
 softdepend: ["Vault"]
